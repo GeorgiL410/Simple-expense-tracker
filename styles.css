@@ -1,0 +1,32 @@
+.container{
+  width: 1010px;
+  background-color: #ffffff;
+  margin: auto;  
+}
+
+.custom-select{
+  max-width: 200px;
+  padding-bottom: 0px;
+}
+
+.display-1, .mb-0{
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#submit-btn{
+  margin-left:10px;
+  text-align: center;
+  color: white;
+}
+
+label {
+font-weight: bold;
+margin-right: 5px;
+margin-left: 5px;
+}
+
+#last-month{
+  font-weight: bold;
+  font-size: 16pt;
+}
